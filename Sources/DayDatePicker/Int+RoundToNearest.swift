@@ -5,6 +5,8 @@
 //  Created by Hugh Bellamy on 05/02/2018.
 //
 
+import Foundation
+
 class DayDateIntHelpers {
     static let ordinalFormatter: NumberFormatter = {
         let formatter = NumberFormatter()

@@ -5,6 +5,8 @@
 //  Created by Hugh Bellamy on 05/02/2018.
 //
 
+import Foundation
+
 extension DayDatePickerView {
     public struct Date: Comparable {
         public init(year: Int, month: Int, day: Int) {

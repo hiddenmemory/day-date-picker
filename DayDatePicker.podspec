@@ -16,6 +16,6 @@ A custom and customizable UIDatePicker which displays the day of the week alongs
   s.ios.deployment_target = '9.0'
   s.swift_version = '4.0'
 
-  s.source_files = 'DayDatePicker/Classes/**/*'
+  s.source_files = 'Sources/DayDatePicker/**/*'
   s.frameworks = 'UIKit'
 end
